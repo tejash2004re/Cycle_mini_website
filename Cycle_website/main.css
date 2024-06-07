@@ -1,0 +1,68 @@
+#paymentsid{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+
+
+}
+/* #paymentsid>input{
+    padding-left: 20px;
+}
+#paymentsid>input:hover{
+    padding: 10px;
+    transition: 0.5s;
+    border: 1px solid;
+    border-collapse: collapse;
+    box-shadow: 1px 1px 3px 3px;
+
+} */
+
+.card1{
+    display:flex;
+    column-gap: 25px;
+    justify-content: center;
+    margin-top: 40px;
+
+}
+#he, #he1 , #he2 , #he3{
+    display: none;
+    
+}
+/* #he, #he1 , #he2 , #he3:hover{
+  
+} */
+
+#carouselid{
+    height: 600px;
+}
+#carouselExample{
+
+    padding-top: 120px;
+    transition: 1s;
+}
+
+svg{
+    width: 100%;
+    height: 20px;
+}
+#imgcar1{
+    width: 50%;
+    margin-left: 60px;
+}
+#imgcar1>h5  {
+    font-family: "Merriweather", serif;
+    font-weight: 800;
+    font-style: italic;
+    color: white;
+    font-size: 50px;
+    padding-top: 30px;
+  }
+#imgcar1>p{
+        font-family: "Source Code Pro", monospace;
+        font-style: italic;
+        font-weight: 500;
+        color: white;
+        font-size: 30px;
+        padding-top: 30px;
+      }
+
